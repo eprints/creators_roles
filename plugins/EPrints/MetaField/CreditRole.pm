@@ -316,14 +316,12 @@ sub get_input_col_titles
 {
 	my( $self, $session, $staff ) = @_;
 	my @r  = ();
-    return \@r unless $self->allow_edit($session);
     return $self->SUPER::get_input_col_titles($session, $staff);
 }
 
 sub get_basic_input_elements
 {
     my( $self, $session, $value, $basename, $staff, $obj, $one_field_component  ) = @_;
-    return [ [ { el=>$session->make_doc_fragment() } ] ] unless $self->allow_edit($session);
     my $maxlength = $self->get_max_input_size;
 	my $size = ( $maxlength > $self->{input_cols} ?
 					$self->{input_cols} : 
@@ -398,7 +396,7 @@ sub get_openclose_options_buttons
         "aria-expanded" => "false"
     );
     $ocbtn->appendChild($session->html_phrase("credit_optsbtn_open"));
-    $html->appendChild($ocbtn);
+    $html->appendChild($ocbtn) if $self->allow_edit($session);
     return $html;
 }
 
