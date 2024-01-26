@@ -16,9 +16,9 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 #### Current EPrints Versions (>3.4.5)
 
 - [#1 Local admins should be able to view this as standard](https://github.com/eprints/creators_roles/issues/1)
+- [#3 Role subfield is removed if the user doesn't have the permissions associated with the field credit_role:edit](https://github.com/eprints/creators_roles/issues/3)
 - Investigate different styling
 - Investigate searching over this field
-- POSSIBLE BUG: When editing a record which has roles attributed to a creator as a user who cannot view this field. I suppose it's because the new creator DS does not contain the field values for the role sub field. Can you do a partial update of a compound field? OR should we show the field and make it readonly like the orcid advance plugin?
 - Investigate accessibility
 
 #### Future EPrints Versions
