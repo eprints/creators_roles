@@ -10,7 +10,7 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 
 | EPrints Version | creators_roles Version | Tested | Production |
 | ----------- | ----------- | ----------- | ----------- |
-| 3.4.5 | Initial Fork v0.0.1-alpha | ✅ | ❌ |
+| [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | ❌ |
 
 ### Improvements & Issues
 
