@@ -7,11 +7,11 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 
 ### Versions & Compatability
 
-| EPrints Version | creators_roles Release Version | Tested | Production |
-| ----------- | ----------- | ----------- | ----------- |
-| [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | ❌ |
-| 3.4.5 | v1.0.0-34 | ❌ | ❌ |
-| 3.5 | v1.0.0-35 | ❌ | ❌ |
+| EPrints Version | creators_roles Release Version | Tested | Released | Date |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 3.5 | v1.0.0-35 | ❌ | ❌ | Future |
+| 3.4.5 | v1.0.0-34 | ❌ | ❌ | Future |
+| [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | ❌ | 27/01/24 |
 
 ### Improvements & Issues
 
@@ -27,6 +27,7 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 
 - [#8 Update to work with future eprints versions (backwards compatible)](https://github.com/eprints/creators_roles/issues/8)
 - [#9 Update to use new JSON field](https://github.com/eprints/eprints3.5/issues/52) (relies on new feature in 3.5 [#52 JSON as a standard MetaField](https://github.com/eprints/eprints3.5/issues/52))
+- [#10 Update README Instructions for 3.5 before 1.1.0 release](https://github.com/eprints/creators_roles/issues/10)
 
 ## Installation Instructions
 
