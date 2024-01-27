@@ -22,6 +22,7 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 - [#5 Improve styling in workflow](https://github.com/eprints/creators_roles/issues/5)
 - [#6 Can you and should you be able to search over this sub field?](https://github.com/eprints/creators_roles/issues/6)
 - [#7 Test accessibility before 1.0.0 release](https://github.com/eprints/creators_roles/issues/7)
+- [#11 Clean up code base](https://github.com/eprints/creators_roles/issues/11)
 
 #### Future EPrints Versions
 
