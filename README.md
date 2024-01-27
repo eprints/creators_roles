@@ -7,26 +7,26 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 
 ### Versions & Compatability
 
-| EPrints Version | creators_roles Version | Tested | Production |
+| EPrints Version | creators_roles Release Version | Tested | Production |
 | ----------- | ----------- | ----------- | ----------- |
 | [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | ❌ |
+| 3.4.5 | v1.0.0-34 | ❌ | ❌ |
+| 3.5 | v1.0.0-35 | ❌ | ❌ |
 
 ### Improvements & Issues
 
-#### Current EPrints Versions (>3.4.5)
+#### Current EPrints Versions (>3.4.5) 1.0.0 Release
 
 - [#1 Local admins should be able to view this as standard](https://github.com/eprints/creators_roles/issues/1)
 - [#3 Role subfield is removed if the user doesn't have the permissions associated with the field credit_role:edit](https://github.com/eprints/creators_roles/issues/3)
-- Investigate different styling
-- Investigate searching over this field
-- Investigate accessibility
+- [#5 Improve styling in workflow](https://github.com/eprints/creators_roles/issues/5)
+- [#6 Can you and should you be able to search over this sub field?](https://github.com/eprints/creators_roles/issues/6)
+- [#7 Test accessibility before 1.0.0 release](https://github.com/eprints/creators_roles/issues/7)
 
 #### Future EPrints Versions
 
-- How can this ingredient be made availanle for both versions of EPRints simlutaniously & should it be?
-- JSON field to use new metafield (relies on new feature)
-- Bootstrap integration
-- eprints_classic_style integration
+- [#8 Update to work with future eprints versions (backwards compatible)](https://github.com/eprints/creators_roles/issues/8)
+- [#9 Update to use new JSON field](https://github.com/eprints/eprints3.5/issues/52) (relies on new feature in 3.5 [#52 JSON as a standard MetaField](https://github.com/eprints/eprints3.5/issues/52))
 
 ## Installation Instructions
 
