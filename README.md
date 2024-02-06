@@ -11,7 +11,7 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 3.5 | v1.0.0-35 | ❌ | ❌ | Future |
 | 3.4.5 | v1.0.0-34 | ❌ | ❌ | Future |
-| [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | ❌ | 27/01/24 |
+| [3.4.5](https://github.com/eprints/eprints3.4/releases/tag/v3.4.5) | [Initial Fork v0.0.1-alpha](https://github.com/eprints/creators_roles/releases/tag/v0.0.1-alpha) | ✅ | N/A | 27/01/24 |
 
 ### Improvements & Issues
 
