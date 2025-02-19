@@ -74,10 +74,10 @@ The `eprintug` plugin [creators_roles](https://github.com/eprintsug/creators_rol
 
 ## Developer Credits
 
-### Initial Developers:
+### Developers / Creators:
 
 [Micheal Eadie](https://github.com/MickEadie), University of Glasgow  
 [Liam Green-Hughes](https://github.com/leg20-unikent), University of Kent  
 
-### EPServices Fork Developers:
+### Developers:
 [Edward Oakley](https://github.com/fatchild), EPrints Services
